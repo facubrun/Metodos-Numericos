@@ -1,0 +1,2 @@
+1)Para graficar en las partes 1 y 2, unicamente cambiar el numero en el vector y0.
+2)ys1 e ys2 son los coeficientes de las matrices de los polinomios de los splines, estan para evitar usar la parte 4 antes que la parte 5.

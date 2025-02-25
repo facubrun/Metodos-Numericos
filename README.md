@@ -1,2 +1,2 @@
 # Metodos-Numericos
-Tareas curso Metodos Númericos FING usando Octave.
+Tareas en grupo - curso Metodos Númericos FING usando Octave.
